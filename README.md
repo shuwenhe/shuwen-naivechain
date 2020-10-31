@@ -1,9 +1,10 @@
 # naivechain
+
 A naive and simple implementation of blockchains.
 
 ### Build And Run
 
-- Download and compile **go get -v github.com/kofj/naivechain**
+- Download and compile
 
 - Start First Node
 
@@ -16,8 +17,6 @@ A naive and simple implementation of blockchains.
   ```bash
   naivechain -api :3002 -p2p :6002 -peers ws://localhost:6001
   ```
-
-
 
 ### HTTP API
 
